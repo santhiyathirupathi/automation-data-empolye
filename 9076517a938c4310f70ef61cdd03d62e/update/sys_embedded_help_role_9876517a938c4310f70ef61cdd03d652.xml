@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1986057_automa_0.user" name="x_1986057_automa_0.user">5076517a938c4310f70ef61cdd03d650</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 08:33:16</sys_created_on>
+        <sys_id>9876517a938c4310f70ef61cdd03d652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5076517a938c4310f70ef61cdd03d650</sys_name>
+        <sys_package display_value="automating empolyee data" source="x_1986057_automa_0">9076517a938c4310f70ef61cdd03d62e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="automating empolyee data">9076517a938c4310f70ef61cdd03d62e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9876517a938c4310f70ef61cdd03d652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 08:33:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
